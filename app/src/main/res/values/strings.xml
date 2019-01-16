@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TECHOAPP</string>
+    <string name="title_activity_progreso_constructivo">Progreso_constructivo</string>
+    <string name="title_activity_progreso">Progreso</string>
 </resources>

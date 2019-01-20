@@ -20,7 +20,9 @@
             android:name=".Progreso_constructivo"
             android:label="@string/title_activity_progreso_constructivo"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".Progreso_Constructivo"></activity>
+        <activity android:name=".Progreso_Constructivo" />
+        <activity android:name=".Nivel" />
+        <activity android:name=".Calculadora"></activity>
     </application>
 
 </manifest>

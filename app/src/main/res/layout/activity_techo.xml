@@ -43,7 +43,7 @@
         android:layout_marginTop="8dp"
         android:layout_marginBottom="102dp"
         android:background="@android:color/transparent"
-        android:onClick="changeNivel"
+        android:onClick="changeCalculo"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/imageButton4"

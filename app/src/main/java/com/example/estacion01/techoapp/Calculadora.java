@@ -20,7 +20,12 @@ public class Calculadora extends AppCompatActivity {
         et=(TextView)findViewById(R.id.texto);
         s=(SeekBar)findViewById(R.id.seekBar);
     }
+    public void change(View view)
+    {
+        Intent siguiente=new Intent(this,TECHO.class);
 
+        startActivity(siguiente);
+    }
     public void tranf(){
      et.setText(s.getProgress());
      s.setOnSeekBarChangeListener(
